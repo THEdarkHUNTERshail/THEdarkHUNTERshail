@@ -13,7 +13,7 @@ while True:
       session = client.session.save()
       client.send_message("me", f"Here is your TELEGRAM STRING SESSION\n(tap to copy)👇 \n\n `{session}`")
       print("You telegram String session successfully stored in your telegram, please check your Telegram Saved Messages ")
-      print("Store it safe !! Don't share with anyone.. Regards.. Team LUCIFER USERBOT")
+      print("Store it safe !! Don't share with anyone.. Regards.. Team 🐲DRAGON")
   except:
    print ("")
    print ("Wrong phone number \n make sure its with correct  country code")
