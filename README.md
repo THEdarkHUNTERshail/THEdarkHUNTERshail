@@ -1,7 +1,7 @@
-# Lucifer Userbot
+#🐲 DRAGON Userbot🐲
 
 <p align="center">
-<img src="https://telegra.ph/file/d7cbffcb6bae55874b1c2.jpg" alt="Lucifer Userbot">
+<img src="https://telegra.ph/file/d7cbffcb6bae55874b1c2.jpg" alt="🐲 Userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -11,28 +11,20 @@
 Best User Bot To Manage Your Telegram Account 
 ## Most PowerFul And Better And Secure
 
-## © By SilverHalobit™
-
-### For any query or want to know how it works join Group And Channel 
-
-<a href="https://t.me/LUCIFER_USERBOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/LUCIFER_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-
 ### Host Friday In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/silverhalobit/LuciferUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/silverhalobit/🐲Userbot)
 
 ## Telegram-String
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://luciferbadbot.silverhalo11.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://🐲bot.silverhalo11.repl.run)
 
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/silverhalobit/LuciferUserbot
+git clone https://github.com/silverhalobit/🐲Userbot
 cd LuciferUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -69,5 +61,4 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
-### CREDITS
-DARK COBRA USRBOT
+
