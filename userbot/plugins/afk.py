@@ -1,5 +1,4 @@
-# by uniborg...Thanks @spechide 
-# Now will be used in DARK COBRA too....
+
 """Syntax: .afk REASON"""
 import asyncio
 import datetime
@@ -37,7 +36,7 @@ async def set_not_afk(event):
     if ".afk" not in current_message and "yes" in USER_AFK:  # pylint:disable=E0602
         shite = await borg.send_message(
             event.chat_id,
-            "__Back alive!__\n**No Longer afk.**\n `Was afk for:``"
+            "__Back alive!__\n**No shail saw u 🐵 noLonger afk.**\n `Was afk for:``"
             + total_afk_time
             + "`",
         )
