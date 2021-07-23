@@ -1,7 +1,7 @@
 {
-  "name": "Lucifer",
-  "description": "The best and most awaited userbot made with ❤ For Support Join @lucifer_support ",
-  "logo": "https://telegra.ph/file/d7cbffcb6bae55874b1c2.jpg ",
+  "name": "🐲DRAGON 🐲",
+  "description": "The best and most awaited userbot made with 🐲
+  "logo": " https://telegra.ph/file/000b419ff41208fe63e2e.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/silverhalobit/LuciferUserbot",
-  "website": "https://github.com/silverhalobit/LuciferUserbot",
-  "success_url": "https://t.me/Lucifer_support",
+  
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
