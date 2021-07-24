@@ -17,7 +17,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## Telegram-String
 
-[![( https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)]
+[![( https://replit.com/@sameerpanthi/dragon-FIGHTERS-BOT#main.py)]
 
 
 ### The Normal Way
