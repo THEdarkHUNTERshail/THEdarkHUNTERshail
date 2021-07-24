@@ -13,11 +13,11 @@ Best User Bot To Manage Your Telegram Account
 
 ### Host🐲 DRAGON 🐉 In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/silverhalobit/🐲Userbot)
+[![Deploy To 
 
 ## Telegram-String
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://🐲bot.silverhalo11.repl.run)
+[![( https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)]
 
 
 ### The Normal Way
